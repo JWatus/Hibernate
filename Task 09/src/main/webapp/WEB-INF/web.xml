@@ -9,7 +9,7 @@
     <class-name>com.mysql.cj.jdbc.MysqlDataSource</class-name>
     <url>jdbc:mysql://127.0.0.1:3306/iso_tasks_hibernate</url>
     <user>root</user>
-    <password>WTF15MWncts</password>
+    <password>...</password>
   </data-source>
 
 </web-app>
